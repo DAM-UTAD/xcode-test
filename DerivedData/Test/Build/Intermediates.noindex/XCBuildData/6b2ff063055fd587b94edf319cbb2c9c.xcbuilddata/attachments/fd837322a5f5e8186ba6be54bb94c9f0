@@ -1,0 +1,68 @@
+{
+  "" : {
+    "diagnostics" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/Test-master.dia",
+    "emit-module-dependencies" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/Test-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/Test-master-emit-module.dia",
+    "swift-dependencies" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/Test-master.swiftdeps"
+  },
+  "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/andreymarin/XCodeProjects/test/Test/Test/AppDelegate.swift" : {
+    "const-values" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/AppDelegate.d",
+    "diagnostics" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/AppDelegate.dia",
+    "index-unit-output-path" : "/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/AppDelegate.o",
+    "llvm-bc" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/AppDelegate.bc",
+    "object" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/AppDelegate.o",
+    "swift-dependencies" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/andreymarin/XCodeProjects/test/Test/Test/ExtensionButton.swift" : {
+    "const-values" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/ExtensionButton.swiftconstvalues",
+    "dependencies" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/ExtensionButton.d",
+    "diagnostics" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/ExtensionButton.dia",
+    "index-unit-output-path" : "/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/ExtensionButton.o",
+    "llvm-bc" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/ExtensionButton.bc",
+    "object" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/ExtensionButton.o",
+    "swift-dependencies" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/ExtensionButton.swiftdeps",
+    "swiftmodule" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/ExtensionButton~partial.swiftmodule"
+  },
+  "/Users/andreymarin/XCodeProjects/test/Test/Test/SceneDelegate.swift" : {
+    "const-values" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/SceneDelegate.d",
+    "diagnostics" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/SceneDelegate.dia",
+    "index-unit-output-path" : "/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/SceneDelegate.o",
+    "llvm-bc" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/SceneDelegate.bc",
+    "object" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/andreymarin/XCodeProjects/test/Test/Test/SecondViewController.swift" : {
+    "const-values" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/SecondViewController.swiftconstvalues",
+    "dependencies" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/SecondViewController.d",
+    "diagnostics" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/SecondViewController.dia",
+    "index-unit-output-path" : "/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/SecondViewController.o",
+    "llvm-bc" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/SecondViewController.bc",
+    "object" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/SecondViewController.o",
+    "swift-dependencies" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/SecondViewController.swiftdeps",
+    "swiftmodule" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/SecondViewController~partial.swiftmodule"
+  },
+  "/Users/andreymarin/XCodeProjects/test/Test/Test/ViewController.swift" : {
+    "const-values" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/ViewController.swiftconstvalues",
+    "dependencies" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/ViewController.d",
+    "diagnostics" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/ViewController.dia",
+    "index-unit-output-path" : "/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/ViewController.o",
+    "llvm-bc" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/ViewController.bc",
+    "object" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/ViewController.o",
+    "swift-dependencies" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/ViewController.swiftdeps",
+    "swiftmodule" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Build/Intermediates.noindex/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/x86_64/ViewController~partial.swiftmodule"
+  }
+}

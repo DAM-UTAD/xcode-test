@@ -1,0 +1,21 @@
+{
+  "" : {
+    "dependencies" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Index.noindex/Build/Intermediates.noindex/Test.build/Debug-iphoneos/Test.build/Objects-normal/arm64/Test-master.d",
+    "diagnostics" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Index.noindex/Build/Intermediates.noindex/Test.build/Debug-iphoneos/Test.build/Objects-normal/arm64/Test-master.dia",
+    "emit-module-dependencies" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Index.noindex/Build/Intermediates.noindex/Test.build/Debug-iphoneos/Test.build/Objects-normal/arm64/Test-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Index.noindex/Build/Intermediates.noindex/Test.build/Debug-iphoneos/Test.build/Objects-normal/arm64/Test-master-emit-module.dia",
+    "swift-dependencies" : "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Index.noindex/Build/Intermediates.noindex/Test.build/Debug-iphoneos/Test.build/Objects-normal/arm64/Test-master.swiftdeps"
+  },
+  "/Users/andreymarin/XCodeProjects/test/Test/DerivedData/Test/Index.noindex/Build/Intermediates.noindex/Test.build/Debug-iphoneos/Test.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/andreymarin/XCodeProjects/test/Test/Test/AppDelegate.swift" : {
+
+  },
+  "/Users/andreymarin/XCodeProjects/test/Test/Test/SceneDelegate.swift" : {
+
+  },
+  "/Users/andreymarin/XCodeProjects/test/Test/Test/ViewController.swift" : {
+
+  }
+}
